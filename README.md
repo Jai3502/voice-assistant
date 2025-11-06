@@ -37,7 +37,15 @@ A smart and interactive **Python Voice Assistant** that listens, speaks, and per
    cd voice-assistant
    
 
-2 . Create a virtual environment (optional but recommended)
-   ```bash
-    python -m venv venv
-    venv\Scripts\activate   # On Windows
+2 **Create a virtual environment (optional but recommended)**
+ 
+python -m venv venv
+venv\Scripts\activate   # On Windows
+
+3 **Install dependencies**
+pip install pyttsx3 SpeechRecognition wikipedia
+
+4 **Run the assistant**
+python main.py
+
+
