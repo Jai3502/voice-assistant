@@ -38,14 +38,16 @@ A smart and interactive **Python Voice Assistant** that listens, speaks, and per
    
 
 2 **Create a virtual environment (optional but recommended)**
- 
-python -m venv venv
-venv\Scripts\activate   # On Windows
+
+    python -m venv venv
+    venv\Scripts\activate   # On Windows
 
 3 **Install dependencies**
-pip install pyttsx3 SpeechRecognition wikipedia
+    
+    pip install pyttsx3 SpeechRecognition wikipedia
 
 4 **Run the assistant**
-python main.py
+    
+    python main.py
 
 
