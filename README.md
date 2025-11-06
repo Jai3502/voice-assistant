@@ -1,10 +1,10 @@
-# 🧠 Skeleton Jai – Python Voice Assistant  
+# Skeleton Jai – Python Voice Assistant  
 
 A smart and interactive **Python Voice Assistant** that listens, speaks, and performs multiple tasks for you using **speech recognition** and **text-to-speech** technology. Skeleton Jai can search Wikipedia, tell jokes, play music, open websites, and much more — all through your voice commands.
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🎙️ **Voice Commands:** Interact naturally using your voice.  
 - 📚 **Wikipedia Search:** Get instant 2-sentence summaries.  
@@ -18,7 +18,7 @@ A smart and interactive **Python Voice Assistant** that listens, speaks, and per
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 - **Python 3**
 - [`pyttsx3`](https://pypi.org/project/pyttsx3/) – Text-to-Speech conversion  
@@ -29,7 +29,7 @@ A smart and interactive **Python Voice Assistant** that listens, speaks, and per
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. **Clone this repository**
    ```bash
