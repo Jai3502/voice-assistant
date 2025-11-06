@@ -35,3 +35,9 @@ A smart and interactive **Python Voice Assistant** that listens, speaks, and per
    ```bash
    git clone https://github.com/<your-username>/voice-assistant.git
    cd voice-assistant
+   
+
+2 . Create a virtual environment (optional but recommended)
+   ```bash
+    python -m venv venv
+    venv\Scripts\activate   # On Windows
