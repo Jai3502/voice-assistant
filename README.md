@@ -6,15 +6,15 @@ A smart and interactive **Python Voice Assistant** that listens, speaks, and per
 
 ## Features
 
-- 🎙️ **Voice Commands:** Interact naturally using your voice.  
-- 📚 **Wikipedia Search:** Get instant 2-sentence summaries.  
-- 😂 **Jokes & Fun Facts:** Listen to random jokes and interesting facts.  
-- 💬 **Motivational Quotes:** Get inspired with random motivational quotes.  
-- 🌐 **Website Access:** Open YouTube, Google, WhatsApp, GitHub, etc.  
-- 🎵 **Play Songs:** Enjoy random Bollywood songs from YouTube.  
-- ⏰ **Time Updates:** Ask for the current time.  
-- 🎲 **Fun Actions:** Flip a coin or roll a dice for fun.  
-- 👋 **Personalized Greeting:** Greets you based on the time of day.
+-  **Voice Commands:** Interact naturally using your voice.  
+-  **Wikipedia Search:** Get instant 2-sentence summaries.  
+-  **Jokes & Fun Facts:** Listen to random jokes and interesting facts.  
+-  **Motivational Quotes:** Get inspired with random motivational quotes.  
+-  **Website Access:** Open YouTube, Google, WhatsApp, GitHub, etc.  
+-  **Play Songs:** Enjoy random Bollywood songs from YouTube.  
+-  **Time Updates:** Ask for the current time.  
+-  **Fun Actions:** Flip a coin or roll a dice for fun.  
+-  **Personalized Greeting:** Greets you based on the time of day.
 
 ---
 
